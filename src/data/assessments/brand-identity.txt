@@ -1,0 +1,183 @@
+Logo & Brand Identity questions
+A. Fundamentals & Principles (Conceptual Clarity)
+What are the five core principles of effective logo design?
+
+
+Which is more important for a logo: originality or recognizability? Explain.
+
+
+How do you define the difference between a logo and a symbol?
+
+
+Why is scalability critical in logo design?
+
+
+What’s the difference between a monogram and a wordmark logo?
+
+
+B. History & Context
+Who designed the original Nike logo and what was unique about its creation?
+
+
+Why is the FedEx logo considered an example of great design?
+
+
+How have minimalist design trends changed logo design in the last decade?
+
+
+Give an example of a global rebrand that failed and why.
+
+
+Which logos in history have stood unchanged the longest, and what does that suggest about their design?
+
+
+C. Technical Knowledge
+Why is vector format (.AI, .SVG) non-negotiable for logo design?
+
+
+What’s the difference between raster and vector graphics?
+
+
+When should you use Pantone colors vs CMYK vs RGB?
+
+
+What are responsive logos and why are they important?
+
+
+Explain how kerning affects logo readability.
+
+
+D. Strategy & Brand Alignment
+How do you ensure a logo reflects a company’s mission/values?
+
+
+A luxury jewelry brand approaches you. What visual cues (colors, typography, styles) do you explore?
+
+
+What’s the danger of designing logos based only on client preferences?
+
+
+How would you design a logo differently for a startup vs. a 50-year-old company rebrand?
+
+
+What’s the difference between brand identity and brand image?
+
+
+E. Client Communication & Management
+A client says, “Just copy this competitor’s logo but change the name.” How do you respond?
+
+
+A client rejects all your concepts, but their feedback is vague (“It just doesn’t pop”). What do you do next?
+
+
+How do you present a logo to a client to maximize buy-in?
+
+
+What’s your policy if a client keeps asking for endless revisions?
+
+
+How would you explain to a non-designer why simplicity is stronger than complexity?
+
+
+F. Cultural Sensitivity & Global Design
+Why must logos be tested across cultures before approval?
+
+
+A brand expansion to the Middle East wants to keep their logo. What considerations might you raise?
+
+
+Give an example of a logo that unintentionally carried offensive meaning in another culture.
+
+
+How do color meanings vary across cultures (e.g., red in China vs. Western countries)?
+
+
+If a client insists on using an animal symbol, how would you research its meaning globally?
+
+
+G. Industry-Specific Applications
+What makes a healthcare logo trustworthy?
+
+
+How should a tech startup’s logo differ from a non-profit organization’s?
+
+
+What design elements make a food & beverage logo appetizing?
+
+
+Why do financial institutions lean toward certain colors and shapes?
+
+
+What makes fashion and luxury brand logos distinct?
+
+
+H. Advanced Design Scenarios
+Explain how negative space can add hidden meaning to a logo.
+
+
+What’s the difference between an emblem and a combination mark?
+
+
+When is a logotype-only (wordmark) approach best?
+
+
+What’s the role of motion/animated logos in modern branding?
+
+
+How would you adapt a logo for use in an app icon?
+
+
+I. Testing & Validation
+How do you test if a logo works at small sizes?
+
+
+What’s the importance of black-and-white versions of a logo?
+
+
+How do you check contrast for accessibility compliance?
+
+
+Describe how you’d run an A/B test for logo concepts.
+
+
+How do you measure whether a logo is memorable?
+
+
+J. Process & Workflow
+Walk me through your logo design process from client brief to delivery.
+
+
+How many initial concepts should you provide to a client?
+
+
+What deliverables should always be included in a brand identity package?
+
+
+How do you organize and name your design files for client handover?
+
+
+What’s your system for ensuring brand consistency across all touchpoints after logo delivery?
+
+
+Hands-On Vetting Tasks (2 Practical Tests)
+Task 1: Redesign Brief
+
+
+A fintech startup called “VaultPay” wants a modern, trustworthy logo that appeals to Gen Z but also reassures older audiences. Create 1–2 logo concepts and provide a short rationale (max 100 words).
+
+
+Task 2: Critical Evaluation
+
+
+Review this hypothetical logo: a tourism brand uses a palm tree with 5 gradient colors. Write a short critique (max 200 words) covering its effectiveness, cultural adaptability, and where it might fail.
+2. Real-Life Tasks (hands-on vetting)
+Task 1: Redesign exercise
+
+
+Brief: “A small coffee brand named Bean & Bloom wants a clean, modern logo that works for packaging and social media. Create 1 logo concept (no more than 2 colors) and provide a 2-sentence rationale.”
+
+
+Task 2: Brand audit exercise
+
+
+Brief: “Review this sample logo [we’d supply an average/mediocre one]. Write a short critique (max 200 words) covering strengths, weaknesses, and how you’d improve it.”

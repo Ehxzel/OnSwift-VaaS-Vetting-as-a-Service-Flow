@@ -1,0 +1,193 @@
+Frontend Development
+1. Core HTML (Structure & Semantics)
+What is the difference between <section>, <article>, <div>, and <span>?
+
+
+Why is semantic HTML important for accessibility and SEO?
+
+
+What are the roles of alt attributes in images, and what makes a good alt text?
+
+
+What’s the difference between <link> and <script> tags in terms of placement and purpose?
+
+
+How would you create a form that is both accessible and responsive?
+
+
+Explain the difference between block-level and inline elements with examples.
+
+
+How do data-* attributes work, and when should you use them?
+
+
+What’s the difference between <button> and <input type="button">?
+
+
+Why should you use <label> with form elements?
+
+
+Explain the difference between relative, absolute, and fixed paths for linking assets.
+
+
+2. CSS (Styling, Layout & Architecture)
+What’s the difference between relative, absolute, fixed, and sticky positioning?
+
+
+Explain the difference between Flexbox and CSS Grid. When would you use one over the other?
+
+
+How do media queries work? Provide an example for making text responsive.
+
+
+What is the difference between inline, inline-block, and block in CSS?
+
+
+How do CSS pseudo-classes (:hover, :nth-child) differ from pseudo-elements (::before, ::after)?
+
+
+What is the difference between em, rem, %, px, and vw/vh units?
+
+
+How would you implement a responsive navigation bar without JavaScript?
+
+
+What’s the difference between z-index and stacking context?
+
+
+What are CSS variables (--var) and why are they useful?
+
+
+What’s the difference between SCSS, LESS, and vanilla CSS?
+
+
+3. JavaScript (Core & DOM Manipulation)
+What’s the difference between == and === in JavaScript?
+
+
+Explain the concept of closures with a practical example.
+
+
+What is event delegation, and why is it important in frontend development?
+
+
+What’s the difference between var, let, and const?
+
+
+How would you debounce a function in JavaScript?
+
+
+Explain how the event loop works in JavaScript.
+
+
+What’s the difference between synchronous and asynchronous code?
+
+
+What are Promises, and how do they improve async handling?
+
+
+Explain how localStorage, sessionStorage, and cookies differ.
+
+
+What’s the difference between for…in, for…of, and forEach?
+
+
+4. Frameworks & Libraries (React, Vue, Angular, etc.)
+Explain the concept of “virtual DOM” in React.
+
+
+What’s the difference between controlled and uncontrolled components in React?
+
+
+How does two-way data binding differ between Angular and React?
+
+
+What’s the difference between props and state in React?
+
+
+Explain how React hooks (useState, useEffect) work.
+
+
+What is hydration in React and when does it matter?
+
+
+How do Vue’s reactivity and watchers work?
+
+
+What’s the difference between Single Page Applications (SPAs) and Multi Page Applications (MPAs)?
+
+
+Why would you use a framework instead of plain JavaScript?
+
+
+Explain what tree-shaking is in bundlers like Webpack or Vite.
+
+
+5. Performance, Accessibility & Testing
+How would you optimize the performance of a webpage? (name 3 methods)
+
+
+What’s lazy loading, and how is it implemented in images?
+
+
+How do ARIA roles help in accessibility? Give examples.
+
+
+What are Core Web Vitals (LCP, FID, CLS)? Why do they matter?
+
+
+How would you debug a slow-rendering React component?
+
+
+How do you test frontend components for correctness and usability?
+
+
+What’s the difference between unit testing, integration testing, and end-to-end testing in frontend?
+
+
+How do you detect and fix a memory leak in a frontend app?
+
+
+What is cross-browser compatibility, and how would you ensure it?
+
+
+Explain progressive enhancement vs graceful degradation in frontend design.
+
+
+Practical Tasks (Frontend)
+Task 1 – Responsive Landing Page
+Build a one-page landing site for a fictional product.
+
+
+Requirements:
+
+
+Responsive navigation bar
+
+
+Hero section with text overlay on an image
+
+
+A features grid (must use CSS Grid)
+
+
+Mobile responsiveness tested down to 320px
+
+
+Contact form with basic validation (HTML + JS)
+
+
+Task 2 – Mini React Project
+Build a to-do list app in React with:
+
+
+Add, delete, and mark-as-complete functionality
+
+
+Persistent data using localStorage
+
+
+Filter buttons: All, Active, Completed
+
+
+Clear structure with components (TodoItem, TodoList, FilterButtons)

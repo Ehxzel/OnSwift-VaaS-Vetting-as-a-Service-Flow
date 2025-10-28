@@ -1,0 +1,344 @@
+Virtual Assistance
+A. General Competence & Tools (10 Qs)
+What is the difference between scheduling a meeting in Google Calendar vs. Outlook?
+
+
+Which tool would you use to manage multiple email inboxes for one client? Why?
+
+
+How do you prioritize incoming tasks when everything seems urgent?
+
+
+What’s the difference between a task management tool like Asana and Trello?
+
+
+How do you handle file sharing securely with a client?
+
+
+Name three AI tools that can help you save time as a VA.
+
+
+How do you manage time zone differences when booking meetings for global clients?
+
+
+What’s the best way to organize shared documents for quick access by a client?
+
+
+How do you ensure you don’t miss deadlines? (Mention a tool or system).
+
+
+If given access to a client’s social media, how do you maintain confidentiality?
+
+
+B. Communication & Writing (10 Qs)
+Draft a polite email reminding a client’s partner about an overdue invoice.
+
+
+How would you respond if a client’s customer is upset in an email?
+
+
+Correct this poorly written sentence: "pls snd me d doc asap" (make it professional).
+
+
+What’s the difference between formal, semi-formal, and casual emails? Give examples.
+
+
+Write a sample Slack update to a client letting them know you’ve completed a task.
+
+
+How do you handle language barriers with international clients?
+
+
+Rewrite this short message professionally: "Sorry late. Will finish later."
+
+
+How do you politely decline a request that’s outside your scope of work?
+
+
+What is the importance of tone in client communications?
+
+
+How would you summarize a 2-page document into a 5-sentence executive summary?
+
+
+C. Organization & Productivity (10 Qs)
+How do you manage multiple clients without mixing up tasks?
+
+
+What’s your system for daily task tracking?
+
+
+If you’re working remotely, how do you set boundaries to stay productive?
+
+
+How do you handle repetitive tasks efficiently?
+
+
+What’s the difference between batch working and multitasking? Which is better and why?
+
+
+You’re assigned 5 tasks but only have time for 3. How do you decide what to do?
+
+
+Which productivity technique do you use? (Pomodoro, Eisenhower Matrix, etc.)
+
+
+How do you report progress to a client without overwhelming them?
+
+
+If two clients schedule meetings at the same time, what’s your process?
+
+
+How do you keep your personal and client files separate and secure?
+
+
+D. Critical Thinking & Problem Solving (10 Qs)
+A client gives you vague instructions: “Handle my calendar.” What’s your first step?
+
+
+A client forgets to show up for an important meeting you scheduled. What do you do?
+
+
+You’re asked to book a hotel for a client in a city you’ve never been to. How do you decide?
+
+
+A client asks for help with a task you’ve never done before. What’s your response?
+
+
+How would you handle discovering an error in a client’s published document?
+
+
+What’s your process if you lose internet while working on an urgent task?
+
+
+A client gives conflicting instructions. How do you resolve it?
+
+
+A client accidentally shares sensitive personal data. What should you do?
+
+
+A client expects you to be available 24/7. How do you set boundaries?
+
+
+You notice the client is paying you late repeatedly. How do you address it?
+
+
+E. Tech & Specialized Knowledge (10 Qs)
+What’s the difference between cloud storage (Google Drive) and local storage?
+
+
+Which CRM (Customer Relationship Management) tools have you used?
+
+
+How do you create a professional invoice for a client?
+
+
+Which tools would you recommend for automating recurring tasks?
+
+
+What’s the safest way to store client passwords?
+
+
+How do you manage bulk email outreach without being flagged as spam?
+
+
+What steps would you take to prepare a Zoom meeting for a client?
+
+
+What’s the role of Zapier in streamlining client workflows?
+
+
+How do you create a travel itinerary for a client?
+
+
+What’s the difference between shared access and delegated access in Gmail?
+
+
+Practical Tasks
+Task 1: Email & Calendar Management
+Write a professional email to confirm a client’s meeting with a partner, include a calendar invite, and ensure time zones are accounted for.
+
+
+Task 2: Research & Organization
+Research 5 coworking spaces in London under $400/month with reliable Wi-Fi and central location. Present findings in a well-organized Google Sheet (columns: Name, Location, Price, Amenities, Website).
+Digital Marketing (Facebook & Instagram Ads) 
+Section 1: Fundamentals of Paid Social Advertising
+What’s the difference between boosting a post and running an ad campaign via Ads Manager?
+
+
+Define CTR, CPC, CPM, ROAS, and CPA.
+
+
+Why is the Facebook Pixel important, and how does it work?
+
+
+How do lookalike audiences differ from custom audiences?
+
+
+Explain the difference between awareness, consideration, and conversion campaign objectives.
+
+
+What are ad placements, and how do you decide which ones to use?
+
+
+What’s the difference between manual bidding and automatic bidding?
+
+
+When would you use reach vs. traffic campaigns?
+
+
+What role does the Facebook Learning Phase play in campaign performance?
+
+
+Why is frequency an important metric in ads reporting?
+
+
+Section 2: Targeting & Audience Strategy
+How would you target a cold audience for a luxury coaching program?
+
+
+Explain the use of interest-based vs. behavior-based targeting.
+
+
+What’s the maximum audience size you’d consider for a retargeting ad? Why?
+
+
+If a client sells handmade jewelry, how would you build a layered interest audience?
+
+
+What’s the difference between a saved audience and a custom audience?
+
+
+How would you target people who abandoned checkout but didn’t purchase?
+
+
+How would you test multiple audience segments without wasting budget?
+
+
+Explain how you’d use demographic data (age, location, device) to refine targeting.
+
+
+What’s the best way to retarget Instagram profile visitors?
+
+
+When would you use geographic radius targeting?
+
+
+Section 3: Creative & Messaging
+What elements make a high-converting ad creative?
+
+
+How do you A/B test different creatives?
+
+
+What are the first 3 seconds of an ad video most critical for?
+
+
+How would you design an ad for a Black Friday campaign?
+
+
+What’s the role of copywriting in ad performance?
+
+
+Give an example of an effective hook for a fitness coach ad.
+
+
+How would you use user-generated content (UGC) in ads?
+
+
+What are dynamic creatives, and when would you use them?
+
+
+How do you adapt ad creatives for Instagram Stories vs. Facebook Feed?
+
+
+Why is congruency between ad copy and landing page copy important?
+
+
+Section 4: Budgeting & Scaling
+How do you decide how much budget to allocate to a test campaign?
+
+
+What’s the 20% rule when scaling ad budgets?
+
+
+When should you duplicate an ad set vs. increase its budget?
+
+
+What’s the difference between horizontal scaling and vertical scaling?
+
+
+If you have $500/month, how would you distribute budget across test, retargeting, and scaling?
+
+
+How do you handle campaigns with a limited budget but multiple products?
+
+
+What’s a CBO (Campaign Budget Optimization), and when do you use it?
+
+
+What signals tell you it’s time to scale an ad?
+
+
+How do you calculate breakeven ROAS?
+
+
+How do you pause underperforming ads without disrupting the campaign?
+
+
+Section 5: Analytics, Compliance & Client Management
+What KPIs matter most for lead generation ads?
+
+
+How do you interpret ad performance if CTR is high but conversions are low?
+
+
+What’s the difference between attribution settings (1-day click vs. 7-day click)?
+
+
+How do you ensure compliance with Facebook’s advertising policies?
+
+
+What’s your process for reporting results to clients?
+
+
+How would you explain ROAS to a client who doesn’t understand marketing terms?
+
+
+What are some red flags that tell you an ad account is in danger of restriction?
+
+
+How would you troubleshoot if ads suddenly stop delivering?
+
+
+What’s the impact of Apple’s iOS 14.5 privacy updates on Facebook Ads?
+
+
+What are the most common mistakes businesses make when running ads?
+
+
+Practical Tasks (2 Real-Life Tests)
+Task 1: Ad Campaign Strategy
+A skincare brand wants to launch a new organic face cream. Budget is $1,000 for one month.
+
+
+Outline:
+
+
+Campaign objectives
+
+
+Audience strategy
+
+
+Creatives (suggest ad copy + visual ideas)
+
+
+Budget distribution
+
+
+Task 2: Ad Troubleshooting
+A client is running a lead gen ad for their coaching program. CTR is 3.5% (very good), but cost per lead is $25 (too high).
+
+
+Write a short analysis explaining why this might be happening and what steps you’d take to fix it.

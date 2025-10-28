@@ -1,0 +1,2078 @@
+Logo & Brand Identity questions
+A. Fundamentals & Principles (Conceptual Clarity)
+What are the five core principles of effective logo design?
+
+
+Which is more important for a logo: originality or recognizability? Explain.
+
+
+How do you define the difference between a logo and a symbol?
+
+
+Why is scalability critical in logo design?
+
+
+What’s the difference between a monogram and a wordmark logo?
+
+
+B. History & Context
+Who designed the original Nike logo and what was unique about its creation?
+
+
+Why is the FedEx logo considered an example of great design?
+
+
+How have minimalist design trends changed logo design in the last decade?
+
+
+Give an example of a global rebrand that failed and why.
+
+
+Which logos in history have stood unchanged the longest, and what does that suggest about their design?
+
+
+C. Technical Knowledge
+Why is vector format (.AI, .SVG) non-negotiable for logo design?
+
+
+What’s the difference between raster and vector graphics?
+
+
+When should you use Pantone colors vs CMYK vs RGB?
+
+
+What are responsive logos and why are they important?
+
+
+Explain how kerning affects logo readability.
+
+
+D. Strategy & Brand Alignment
+How do you ensure a logo reflects a company’s mission/values?
+
+
+A luxury jewelry brand approaches you. What visual cues (colors, typography, styles) do you explore?
+
+
+What’s the danger of designing logos based only on client preferences?
+
+
+How would you design a logo differently for a startup vs. a 50-year-old company rebrand?
+
+
+What’s the difference between brand identity and brand image?
+
+
+E. Client Communication & Management
+A client says, “Just copy this competitor’s logo but change the name.” How do you respond?
+
+
+A client rejects all your concepts, but their feedback is vague (“It just doesn’t pop”). What do you do next?
+
+
+How do you present a logo to a client to maximize buy-in?
+
+
+What’s your policy if a client keeps asking for endless revisions?
+
+
+How would you explain to a non-designer why simplicity is stronger than complexity?
+
+
+F. Cultural Sensitivity & Global Design
+Why must logos be tested across cultures before approval?
+
+
+A brand expansion to the Middle East wants to keep their logo. What considerations might you raise?
+
+
+Give an example of a logo that unintentionally carried offensive meaning in another culture.
+
+
+How do color meanings vary across cultures (e.g., red in China vs. Western countries)?
+
+
+If a client insists on using an animal symbol, how would you research its meaning globally?
+
+
+G. Industry-Specific Applications
+What makes a healthcare logo trustworthy?
+
+
+How should a tech startup’s logo differ from a non-profit organization’s?
+
+
+What design elements make a food & beverage logo appetizing?
+
+
+Why do financial institutions lean toward certain colors and shapes?
+
+
+What makes fashion and luxury brand logos distinct?
+
+
+H. Advanced Design Scenarios
+Explain how negative space can add hidden meaning to a logo.
+
+
+What’s the difference between an emblem and a combination mark?
+
+
+When is a logotype-only (wordmark) approach best?
+
+
+What’s the role of motion/animated logos in modern branding?
+
+
+How would you adapt a logo for use in an app icon?
+
+
+I. Testing & Validation
+How do you test if a logo works at small sizes?
+
+
+What’s the importance of black-and-white versions of a logo?
+
+
+How do you check contrast for accessibility compliance?
+
+
+Describe how you’d run an A/B test for logo concepts.
+
+
+How do you measure whether a logo is memorable?
+
+
+J. Process & Workflow
+Walk me through your logo design process from client brief to delivery.
+
+
+How many initial concepts should you provide to a client?
+
+
+What deliverables should always be included in a brand identity package?
+
+
+How do you organize and name your design files for client handover?
+
+
+What’s your system for ensuring brand consistency across all touchpoints after logo delivery?
+
+
+Hands-On Vetting Tasks (2 Practical Tests)
+Task 1: Redesign Brief
+
+
+A fintech startup called “VaultPay” wants a modern, trustworthy logo that appeals to Gen Z but also reassures older audiences. Create 1–2 logo concepts and provide a short rationale (max 100 words).
+
+
+Task 2: Critical Evaluation
+
+
+Review this hypothetical logo: a tourism brand uses a palm tree with 5 gradient colors. Write a short critique (max 200 words) covering its effectiveness, cultural adaptability, and where it might fail.
+2. Real-Life Tasks (hands-on vetting)
+Task 1: Redesign exercise
+
+
+Brief: “A small coffee brand named Bean & Bloom wants a clean, modern logo that works for packaging and social media. Create 1 logo concept (no more than 2 colors) and provide a 2-sentence rationale.”
+
+
+Task 2: Brand audit exercise
+
+
+Brief: “Review this sample logo [we’d supply an average/mediocre one]. Write a short critique (max 200 words) covering strengths, weaknesses, and how you’d improve it.”
+
+
+
+
+
+
+
+
+Social Media Graphics (Flyers, Banners & Brochures)
+A. Fundamentals & Principles (Conceptual Clarity)
+What’s the difference between a flyer, a banner, and a brochure?
+
+
+What’s the primary goal of social media graphics compared to print graphics?
+
+
+Why is hierarchy important in flyer design?
+
+
+Which principle ensures elements don’t feel “crammed” in a layout?
+
+
+Why should every design have a clear call-to-action (CTA)?
+
+
+B. Marketing Alignment & Strategy
+What’s the difference between designing for awareness vs. conversion?
+
+
+A flyer for a concert vs. a corporate seminar — what’s different in tone and design approach?
+
+
+Why does understanding the target audience matter in banner design?
+
+
+How do you design for scannability in social media graphics?
+
+
+What’s the 80/20 rule in promotional design?
+
+
+C. Technical Knowledge
+Which resolution (in dpi) is standard for print brochures?
+
+
+Which file formats are best for social media uploads?
+
+
+Why is bleed important in brochure printing?
+
+
+Explain the difference between RGB and CMYK in design exports.
+
+
+What’s the ideal aspect ratio for a Facebook banner vs. an Instagram post?
+
+
+D. Typography & Visual Hierarchy
+Why should designers limit font choices in a design?
+
+
+What’s the danger of using decorative fonts for body copy?
+
+
+Explain how font size contributes to hierarchy.
+
+
+How would you pair a serif and sans-serif font in a brochure?
+
+
+What’s kerning and how does it affect readability?
+
+
+E. Color & Visual Psychology
+How does color psychology affect ad performance?
+
+
+Which colors typically work best for food-related banners?
+
+
+What’s the importance of contrast in flyer readability?
+
+
+Why should you test color choices for accessibility (color-blind audiences)?
+
+
+Give an example of how brand colors guide graphic consistency.
+
+
+F. Layout & Composition
+What is the rule of thirds in design?
+
+
+How does white space (negative space) improve a design?
+
+
+Why should a brochure follow a grid system?
+
+
+How do you ensure balance in banner design?
+
+
+What’s the role of alignment in professional layouts?
+
+
+G. Platform-Specific Considerations
+What’s a safe zone in Facebook cover design?
+
+
+Why should text be limited in Instagram ads?
+
+
+How do you adapt the same flyer design for stories, posts, and reels?
+
+
+What’s the max file size for LinkedIn banner uploads?
+
+
+Why should WhatsApp flyer designs be lightweight in file size?
+
+
+H. Branding & Consistency
+How do you incorporate brand guidelines into social media graphics?
+
+
+Why is consistency across flyers, banners, and brochures important?
+
+
+What’s the risk of ignoring brand typography in marketing designs?
+
+
+A client’s logo looks blurry in your draft. What do you do?
+
+
+How do you adapt global brand guidelines to fit local campaign needs?
+
+
+I. Client Management & Real-Life Scenarios
+A client says, “Make it pop.” How do you clarify what they mean?
+
+
+The client sends low-resolution photos for a flyer. What’s your solution?
+
+
+A brochure needs to explain 10 services. How do you fit the content without overcrowding?
+
+
+A last-minute banner is needed in 3 hours. What’s your priority workflow?
+
+
+The client insists on using 5 fonts and 7 colors. How do you push back professionally?
+
+
+J. Testing & Performance
+How do you test readability of a design at small screen sizes?
+
+
+Why should you preview banner designs on both desktop and mobile?
+
+
+How do you measure design effectiveness for social media campaigns?
+
+
+What’s the importance of A/B testing for ad creatives?
+
+
+How do you decide if a design should be image-heavy or text-heavy?
+
+
+Hands-On Vetting Tasks (2 Practical Tests)
+Task 1: Flyer Design Brief
+
+
+Client: A fitness coach launching a “30-Day Challenge.”
+
+
+Task: Design a single-page flyer optimized for Instagram (square format). Must include title, CTA, pricing, and at least one image.
+
+
+Task 2: Banner/Brochure Audit
+
+
+Brief: Review this sample 3-fold brochure (we’d provide a mediocre one). Write a short critique (max 200 words) covering hierarchy, readability, color choices, and alignment with marketing goals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copywriting (Sales Copy: Ads, Funnels, Landing Pages)
+A. Fundamentals & Principles
+What’s the difference between copywriting and content writing?
+
+
+Why is clarity more important than cleverness in sales copy?
+
+
+Define a “unique selling proposition” (USP) and why it matters.
+
+
+What role does a headline play in copywriting?
+
+
+Why is specificity more persuasive than general claims?
+
+
+B. Consumer Psychology & Persuasion
+What are the AIDA and PAS frameworks in copywriting?
+
+
+Why is social proof effective in landing pages?
+
+
+Explain the concept of “loss aversion” and how it applies to sales copy.
+
+
+How do scarcity and urgency increase conversions?
+
+
+What’s the difference between a benefit and a feature?
+
+
+C. Ads-Specific Copywriting
+Why must Facebook ads have concise, scannable copy?
+
+
+How do you write copy that passes Meta’s ad policies?
+
+
+What’s the role of a hook in ad copy?
+
+
+Give an example of a weak CTA and rewrite it into a strong one.
+
+
+Why should ad copy differ from organic social content?
+
+
+D. Funnels & Email Copy
+What’s the purpose of a lead magnet funnel?
+
+
+How do you write a subject line that gets emails opened?
+
+
+Why should a funnel landing page usually have only one CTA?
+
+
+What’s the role of storytelling in email nurture sequences?
+
+
+How do you prevent emails from going into spam?
+
+
+E. Landing Page Copy
+Why is “above the fold” content critical in landing pages?
+
+
+How do you structure a landing page for maximum conversions?
+
+
+What’s the importance of testimonials on sales pages?
+
+
+Why should long-form sales pages still include multiple CTAs?
+
+
+What makes a guarantee statement credible?
+
+
+F. Testing & Optimization
+What’s A/B testing in copywriting?
+
+
+How would you test different headlines on a landing page?
+
+
+What’s the importance of measuring CTR (click-through rate)?
+
+
+Which metric shows if your sales copy is actually profitable?
+
+
+Why should copy be continuously optimized even after launch?
+
+
+G. Voice, Tone & Audience Fit
+How do you adjust tone for B2B vs. B2C sales copy?
+
+
+Why is writing to “one person” more powerful than writing to “everyone”?
+
+
+A client wants a playful brand voice. How would you capture that?
+
+
+What’s the role of empathy in persuasive writing?
+
+
+How do you research the “voice of customer” before writing?
+
+
+H. Client Communication & Real-Life Scenarios
+A client insists on keyword stuffing for SEO. How do you respond?
+
+
+A client says your copy “doesn’t sound exciting enough.” What do you ask next?
+
+
+The client provides almost no information. What’s your process to extract insights?
+
+
+How do you handle a client who keeps rewriting your copy?
+
+
+A product is boring (e.g., insurance). How do you still make copy compelling?
+
+
+I. Advanced Strategy & Persuasion
+What’s risk-reversal in copywriting? Give an example.
+
+
+Why are objections important to address in copy?
+
+
+How do you use sensory language to create impact?
+
+
+Why do long-form pages often outperform short ones for high-ticket offers?
+
+
+How do you weave a story into sales copy without losing clarity?
+
+
+J. Ethics & Compliance
+Why must copy avoid false claims?
+
+
+How do you write compliant copy in health/finance industries?
+
+
+What’s the danger of manipulative vs. persuasive copy?
+
+
+A client requests a “clickbait headline.” What’s your professional stance?
+
+
+How do you balance persuasive urgency with honesty?
+
+
+Hands-On Vetting Tasks (2 Practical Tests)
+Task 1: Ad Copywriting
+
+
+Brief: A productivity app wants to attract freelancers. Write two Facebook ad variations (headline + 2–3 sentences of copy + CTA).
+
+
+Task 2: Landing Page Headline Test
+
+
+Brief: A fitness coach is selling a $299 6-week program. Write three different headline + subheadline combinations for the landing page, targeting busy professionals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Content Writing (Website Copy, Blog Articles & SEO Writing)
+A. Fundamentals & Principles
+What’s the main difference between copywriting and content writing?
+
+
+Why is clarity more important than word count?
+
+
+How does website copy differ from blog articles?
+
+
+Why is formatting important in online writing?
+
+
+What’s the difference between editing and proofreading?
+
+
+B. Website Copywriting
+What makes a homepage headline effective?
+
+
+Why is brevity crucial in website copy?
+
+
+What’s the purpose of a value proposition on a homepage?
+
+
+Why should CTAs be clear and specific on websites?
+
+
+What’s the difference between “About Us” copy and sales copy?
+
+
+C. Blog Writing & Long-Form Content
+Why is keyword research important for blog writing?
+
+
+How do you structure a blog post for readability?
+
+
+What’s the ideal length for a blog post?
+
+
+Why should blogs include internal and external links?
+
+
+What makes a headline click-worthy without being clickbait?
+
+
+D. SEO Writing Fundamentals
+What is the difference between short-tail and long-tail keywords?
+
+
+How do meta titles and descriptions influence SEO?
+
+
+Why is keyword stuffing harmful?
+
+
+How do you optimize images for SEO?
+
+
+What’s the role of backlinks in SEO writing?
+
+
+E. Advanced SEO Strategy
+What’s search intent and why is it important?
+
+
+Explain the difference between on-page and off-page SEO.
+
+
+Why should blogs be updated over time?
+
+
+How do you optimize for voice search?
+
+
+What are LSI (latent semantic indexing) keywords?
+
+
+F. Readability & UX Writing
+Why is scannability important in online writing?
+
+
+What’s the F-pattern in reading, and how does it affect website copy?
+
+
+How do bullet points improve readability?
+
+
+Why should web copy avoid jargon (unless industry-specific)?
+
+
+What’s the recommended grade level for general web content readability?
+
+
+G. Storytelling & Engagement
+Why does storytelling matter in content writing?
+
+
+How do you use case studies/testimonials in content writing?
+
+
+What’s the difference between educational and promotional content?
+
+
+Why should content balance information and engagement?
+
+
+How do you create an effective opening hook for a blog?
+
+
+H. Analytics & Performance
+How do you measure if blog content is performing well?
+
+
+Why is bounce rate important for website content?
+
+
+What’s the difference between CTR and conversion rate in content?
+
+
+How do you measure engagement in blog content?
+
+
+What tools would you use to track SEO performance?
+
+
+I. Client Communication & Scenarios
+A client says, “Just make the article 2,000 words.” What questions should you ask before writing?
+
+
+The client gives you a topic with no brief. How do you structure your research?
+
+
+The client insists on using a keyword 30 times in 800 words. How do you handle it?
+
+
+How do you adapt writing tone for a law firm vs. a fashion blog?
+
+
+A client wants immediate SEO results from one blog post. How do you explain reality?
+
+
+J. Ethics & Professionalism
+Why is plagiarism unacceptable in content writing?
+
+
+How do you ensure originality in your content?
+
+
+What’s your stance on using AI tools in writing?
+
+
+How do you cite sources in blog articles?
+
+
+Why should SEO writing prioritize humans before algorithms?
+
+
+Hands-On Vetting Tasks (2 Practical Tests)
+Task 1: Blog Writing Test
+
+
+Brief: Write a 500-word blog post outline + intro paragraph for the topic: “5 Proven Ways Small Businesses Can Improve Their Website SEO in 2025.”
+
+
+Task 2: Website Copy Test
+
+
+Brief: A startup called “EcoFlow” sells eco-friendly water bottles. Write homepage headline + subheadline + 3 short benefit statements (max 50 words total).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Social Media Management
+A. Fundamentals & Principles
+What’s the main difference between social media management and social media marketing?
+
+
+Why is consistency important in social media management?
+
+
+What’s a content calendar and why is it crucial?
+
+
+What’s the role of a social media manager vs. a content creator?
+
+
+How do you decide which platforms a brand should focus on?
+
+
+B. Strategy & Planning
+What’s the first step in creating a social media strategy?
+
+
+How do you define KPIs (key performance indicators) for social media?
+
+
+Why is audience research critical before launching a campaign?
+
+
+What’s the difference between organic and paid growth?
+
+
+How do you balance brand voice across multiple platforms?
+
+
+C. Content Creation & Curation
+What’s the ideal ratio of promotional vs. value-based content?
+
+
+How do you repurpose a blog post into social content?
+
+
+Why should content be native to each platform?
+
+
+What are trending formats in 2025 (e.g., short-form video, carousels)?
+
+
+How do you ensure graphics/videos align with brand guidelines?
+
+
+D. Scheduling & Tools
+What tools do you use for scheduling posts?
+
+
+What’s the best posting frequency for Instagram vs. LinkedIn?
+
+
+How do you handle scheduling across different time zones?
+
+
+Why is it risky to automate all social media engagement?
+
+
+What’s the importance of real-time monitoring in social management?
+
+
+E. Engagement & Community Building
+How do you increase engagement organically?
+
+
+What’s the difference between reach and impressions?
+
+
+How do you handle trolls or negative comments?
+
+
+Why should you respond to comments quickly?
+
+
+What’s the importance of building relationships, not just followers?
+
+
+F. Analytics & Performance
+What’s the difference between vanity metrics and actionable metrics?
+
+
+How do you measure ROI on social media?
+
+
+Which metrics matter most for brand awareness campaigns?
+
+
+How do you track conversions from social media?
+
+
+Why should you create monthly reports for clients?
+
+
+G. Paid Ads & Campaigns
+What’s the difference between boosting a post and running an ad campaign?
+
+
+How do you set a target audience for paid ads?
+
+
+What’s retargeting and why is it powerful?
+
+
+Why should ad creatives be tested before scaling budget?
+
+
+How do you balance organic and paid content in strategy?
+
+
+H. Platform-Specific Knowledge
+What makes TikTok content different from Instagram?
+
+
+Why do LinkedIn posts need a different tone than Facebook?
+
+
+How do you adapt content for Twitter/X?
+
+
+What’s the role of hashtags in Instagram growth?
+
+
+What makes Pinterest unique compared to other platforms?
+
+
+I. Client Communication & Scenarios
+A client says, “We just want more followers.” How do you respond?
+
+
+A client insists on posting memes that don’t fit their brand voice. What do you do?
+
+
+How do you handle a client who wants to post 5 times a day?
+
+
+A campaign performs poorly. How do you explain it to a client?
+
+
+What’s your process for getting client approvals on content?
+
+
+J. Trends, Crisis & Professionalism
+Why must brands avoid jumping on every trending topic?
+
+
+Give an example of a social media crisis and how you’d manage it.
+
+
+What’s the risk of ignoring cultural sensitivity in content?
+
+
+How do you keep up with algorithm changes?
+
+
+What’s your philosophy on automation vs. human touch in community management?
+
+
+Hands-On Vetting Tasks (2 Practical Tests)
+Task 1: Strategy Plan
+
+
+Brief: A small fashion brand wants to grow its Instagram audience and drive sales from social media. Create a one-week content plan (post types, captions/themes, and CTA ideas).
+
+
+Task 2: Engagement Handling
+
+
+Brief: A customer leaves this comment under a client’s Facebook ad: “This product is a scam. Don’t waste your money.” Write a professional reply that protects the brand and builds trust.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Virtual Assistance
+A. General Competence & Tools (10 Qs)
+What is the difference between scheduling a meeting in Google Calendar vs. Outlook?
+
+
+Which tool would you use to manage multiple email inboxes for one client? Why?
+
+
+How do you prioritize incoming tasks when everything seems urgent?
+
+
+What’s the difference between a task management tool like Asana and Trello?
+
+
+How do you handle file sharing securely with a client?
+
+
+Name three AI tools that can help you save time as a VA.
+
+
+How do you manage time zone differences when booking meetings for global clients?
+
+
+What’s the best way to organize shared documents for quick access by a client?
+
+
+How do you ensure you don’t miss deadlines? (Mention a tool or system).
+
+
+If given access to a client’s social media, how do you maintain confidentiality?
+
+
+B. Communication & Writing (10 Qs)
+Draft a polite email reminding a client’s partner about an overdue invoice.
+
+
+How would you respond if a client’s customer is upset in an email?
+
+
+Correct this poorly written sentence: "pls snd me d doc asap" (make it professional).
+
+
+What’s the difference between formal, semi-formal, and casual emails? Give examples.
+
+
+Write a sample Slack update to a client letting them know you’ve completed a task.
+
+
+How do you handle language barriers with international clients?
+
+
+Rewrite this short message professionally: "Sorry late. Will finish later."
+
+
+How do you politely decline a request that’s outside your scope of work?
+
+
+What is the importance of tone in client communications?
+
+
+How would you summarize a 2-page document into a 5-sentence executive summary?
+
+
+C. Organization & Productivity (10 Qs)
+How do you manage multiple clients without mixing up tasks?
+
+
+What’s your system for daily task tracking?
+
+
+If you’re working remotely, how do you set boundaries to stay productive?
+
+
+How do you handle repetitive tasks efficiently?
+
+
+What’s the difference between batch working and multitasking? Which is better and why?
+
+
+You’re assigned 5 tasks but only have time for 3. How do you decide what to do?
+
+
+Which productivity technique do you use? (Pomodoro, Eisenhower Matrix, etc.)
+
+
+How do you report progress to a client without overwhelming them?
+
+
+If two clients schedule meetings at the same time, what’s your process?
+
+
+How do you keep your personal and client files separate and secure?
+
+
+D. Critical Thinking & Problem Solving (10 Qs)
+A client gives you vague instructions: “Handle my calendar.” What’s your first step?
+
+
+A client forgets to show up for an important meeting you scheduled. What do you do?
+
+
+You’re asked to book a hotel for a client in a city you’ve never been to. How do you decide?
+
+
+A client asks for help with a task you’ve never done before. What’s your response?
+
+
+How would you handle discovering an error in a client’s published document?
+
+
+What’s your process if you lose internet while working on an urgent task?
+
+
+A client gives conflicting instructions. How do you resolve it?
+
+
+A client accidentally shares sensitive personal data. What should you do?
+
+
+A client expects you to be available 24/7. How do you set boundaries?
+
+
+You notice the client is paying you late repeatedly. How do you address it?
+
+
+E. Tech & Specialized Knowledge (10 Qs)
+What’s the difference between cloud storage (Google Drive) and local storage?
+
+
+Which CRM (Customer Relationship Management) tools have you used?
+
+
+How do you create a professional invoice for a client?
+
+
+Which tools would you recommend for automating recurring tasks?
+
+
+What’s the safest way to store client passwords?
+
+
+How do you manage bulk email outreach without being flagged as spam?
+
+
+What steps would you take to prepare a Zoom meeting for a client?
+
+
+What’s the role of Zapier in streamlining client workflows?
+
+
+How do you create a travel itinerary for a client?
+
+
+What’s the difference between shared access and delegated access in Gmail?
+
+
+Practical Tasks
+Task 1: Email & Calendar Management
+Write a professional email to confirm a client’s meeting with a partner, include a calendar invite, and ensure time zones are accounted for.
+
+
+Task 2: Research & Organization
+Research 5 coworking spaces in London under $400/month with reliable Wi-Fi and central location. Present findings in a well-organized Google Sheet (columns: Name, Location, Price, Amenities, Website).
+Digital Marketing (Facebook & Instagram Ads) 
+Section 1: Fundamentals of Paid Social Advertising
+What’s the difference between boosting a post and running an ad campaign via Ads Manager?
+
+
+Define CTR, CPC, CPM, ROAS, and CPA.
+
+
+Why is the Facebook Pixel important, and how does it work?
+
+
+How do lookalike audiences differ from custom audiences?
+
+
+Explain the difference between awareness, consideration, and conversion campaign objectives.
+
+
+What are ad placements, and how do you decide which ones to use?
+
+
+What’s the difference between manual bidding and automatic bidding?
+
+
+When would you use reach vs. traffic campaigns?
+
+
+What role does the Facebook Learning Phase play in campaign performance?
+
+
+Why is frequency an important metric in ads reporting?
+
+
+Section 2: Targeting & Audience Strategy
+How would you target a cold audience for a luxury coaching program?
+
+
+Explain the use of interest-based vs. behavior-based targeting.
+
+
+What’s the maximum audience size you’d consider for a retargeting ad? Why?
+
+
+If a client sells handmade jewelry, how would you build a layered interest audience?
+
+
+What’s the difference between a saved audience and a custom audience?
+
+
+How would you target people who abandoned checkout but didn’t purchase?
+
+
+How would you test multiple audience segments without wasting budget?
+
+
+Explain how you’d use demographic data (age, location, device) to refine targeting.
+
+
+What’s the best way to retarget Instagram profile visitors?
+
+
+When would you use geographic radius targeting?
+
+
+Section 3: Creative & Messaging
+What elements make a high-converting ad creative?
+
+
+How do you A/B test different creatives?
+
+
+What are the first 3 seconds of an ad video most critical for?
+
+
+How would you design an ad for a Black Friday campaign?
+
+
+What’s the role of copywriting in ad performance?
+
+
+Give an example of an effective hook for a fitness coach ad.
+
+
+How would you use user-generated content (UGC) in ads?
+
+
+What are dynamic creatives, and when would you use them?
+
+
+How do you adapt ad creatives for Instagram Stories vs. Facebook Feed?
+
+
+Why is congruency between ad copy and landing page copy important?
+
+
+Section 4: Budgeting & Scaling
+How do you decide how much budget to allocate to a test campaign?
+
+
+What’s the 20% rule when scaling ad budgets?
+
+
+When should you duplicate an ad set vs. increase its budget?
+
+
+What’s the difference between horizontal scaling and vertical scaling?
+
+
+If you have $500/month, how would you distribute budget across test, retargeting, and scaling?
+
+
+How do you handle campaigns with a limited budget but multiple products?
+
+
+What’s a CBO (Campaign Budget Optimization), and when do you use it?
+
+
+What signals tell you it’s time to scale an ad?
+
+
+How do you calculate breakeven ROAS?
+
+
+How do you pause underperforming ads without disrupting the campaign?
+
+
+Section 5: Analytics, Compliance & Client Management
+What KPIs matter most for lead generation ads?
+
+
+How do you interpret ad performance if CTR is high but conversions are low?
+
+
+What’s the difference between attribution settings (1-day click vs. 7-day click)?
+
+
+How do you ensure compliance with Facebook’s advertising policies?
+
+
+What’s your process for reporting results to clients?
+
+
+How would you explain ROAS to a client who doesn’t understand marketing terms?
+
+
+What are some red flags that tell you an ad account is in danger of restriction?
+
+
+How would you troubleshoot if ads suddenly stop delivering?
+
+
+What’s the impact of Apple’s iOS 14.5 privacy updates on Facebook Ads?
+
+
+What are the most common mistakes businesses make when running ads?
+
+
+Practical Tasks (2 Real-Life Tests)
+Task 1: Ad Campaign Strategy
+A skincare brand wants to launch a new organic face cream. Budget is $1,000 for one month.
+
+
+Outline:
+
+
+Campaign objectives
+
+
+Audience strategy
+
+
+Creatives (suggest ad copy + visual ideas)
+
+
+Budget distribution
+
+
+Task 2: Ad Troubleshooting
+A client is running a lead gen ad for their coaching program. CTR is 3.5% (very good), but cost per lead is $25 (too high).
+
+
+Write a short analysis explaining why this might be happening and what steps you’d take to fix it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frontend Development
+1. Core HTML (Structure & Semantics)
+What is the difference between <section>, <article>, <div>, and <span>?
+
+
+Why is semantic HTML important for accessibility and SEO?
+
+
+What are the roles of alt attributes in images, and what makes a good alt text?
+
+
+What’s the difference between <link> and <script> tags in terms of placement and purpose?
+
+
+How would you create a form that is both accessible and responsive?
+
+
+Explain the difference between block-level and inline elements with examples.
+
+
+How do data-* attributes work, and when should you use them?
+
+
+What’s the difference between <button> and <input type="button">?
+
+
+Why should you use <label> with form elements?
+
+
+Explain the difference between relative, absolute, and fixed paths for linking assets.
+
+
+2. CSS (Styling, Layout & Architecture)
+What’s the difference between relative, absolute, fixed, and sticky positioning?
+
+
+Explain the difference between Flexbox and CSS Grid. When would you use one over the other?
+
+
+How do media queries work? Provide an example for making text responsive.
+
+
+What is the difference between inline, inline-block, and block in CSS?
+
+
+How do CSS pseudo-classes (:hover, :nth-child) differ from pseudo-elements (::before, ::after)?
+
+
+What is the difference between em, rem, %, px, and vw/vh units?
+
+
+How would you implement a responsive navigation bar without JavaScript?
+
+
+What’s the difference between z-index and stacking context?
+
+
+What are CSS variables (--var) and why are they useful?
+
+
+What’s the difference between SCSS, LESS, and vanilla CSS?
+
+
+3. JavaScript (Core & DOM Manipulation)
+What’s the difference between == and === in JavaScript?
+
+
+Explain the concept of closures with a practical example.
+
+
+What is event delegation, and why is it important in frontend development?
+
+
+What’s the difference between var, let, and const?
+
+
+How would you debounce a function in JavaScript?
+
+
+Explain how the event loop works in JavaScript.
+
+
+What’s the difference between synchronous and asynchronous code?
+
+
+What are Promises, and how do they improve async handling?
+
+
+Explain how localStorage, sessionStorage, and cookies differ.
+
+
+What’s the difference between for…in, for…of, and forEach?
+
+
+4. Frameworks & Libraries (React, Vue, Angular, etc.)
+Explain the concept of “virtual DOM” in React.
+
+
+What’s the difference between controlled and uncontrolled components in React?
+
+
+How does two-way data binding differ between Angular and React?
+
+
+What’s the difference between props and state in React?
+
+
+Explain how React hooks (useState, useEffect) work.
+
+
+What is hydration in React and when does it matter?
+
+
+How do Vue’s reactivity and watchers work?
+
+
+What’s the difference between Single Page Applications (SPAs) and Multi Page Applications (MPAs)?
+
+
+Why would you use a framework instead of plain JavaScript?
+
+
+Explain what tree-shaking is in bundlers like Webpack or Vite.
+
+
+5. Performance, Accessibility & Testing
+How would you optimize the performance of a webpage? (name 3 methods)
+
+
+What’s lazy loading, and how is it implemented in images?
+
+
+How do ARIA roles help in accessibility? Give examples.
+
+
+What are Core Web Vitals (LCP, FID, CLS)? Why do they matter?
+
+
+How would you debug a slow-rendering React component?
+
+
+How do you test frontend components for correctness and usability?
+
+
+What’s the difference between unit testing, integration testing, and end-to-end testing in frontend?
+
+
+How do you detect and fix a memory leak in a frontend app?
+
+
+What is cross-browser compatibility, and how would you ensure it?
+
+
+Explain progressive enhancement vs graceful degradation in frontend design.
+
+
+Practical Tasks (Frontend)
+Task 1 – Responsive Landing Page
+Build a one-page landing site for a fictional product.
+
+
+Requirements:
+
+
+Responsive navigation bar
+
+
+Hero section with text overlay on an image
+
+
+A features grid (must use CSS Grid)
+
+
+Mobile responsiveness tested down to 320px
+
+
+Contact form with basic validation (HTML + JS)
+
+
+Task 2 – Mini React Project
+Build a to-do list app in React with:
+
+
+Add, delete, and mark-as-complete functionality
+
+
+Persistent data using localStorage
+
+
+Filter buttons: All, Active, Completed
+
+
+Clear structure with components (TodoItem, TodoList, FilterButtons)
+
+
+
+
+
+
+
+
+
+Backend Development 
+1. Core Backend Fundamentals
+Explain the difference between a monolithic and microservices architecture.
+
+
+How do APIs enable frontend-backend communication?
+
+
+What is the difference between REST and GraphQL APIs?
+
+
+Can you explain the concept of middleware in backend frameworks?
+
+
+How would you handle environment variables securely in a project?
+
+
+2. Databases & Data Modeling
+Difference between SQL and NoSQL databases? Give an example use case for each.
+
+
+How would you design a schema for an e-commerce product catalog?
+
+
+Explain the concept of database normalization.
+
+
+What’s an index in a database, and when should you use one?
+
+
+How do you handle relationships in MongoDB vs. PostgreSQL?
+
+
+3. Authentication & Security
+Difference between session-based and token-based authentication?
+
+
+How does OAuth2 work?
+
+
+Explain the concept of JWT and its risks.
+
+
+What’s the role of hashing and salting passwords?
+
+
+How do you prevent SQL Injection attacks?
+
+
+4. Performance & Scalability
+What is caching, and where would you apply it in backend systems?
+
+
+Explain horizontal vs. vertical scaling with an example.
+
+
+How would you optimize a slow-running query?
+
+
+What is load balancing, and why is it important?
+
+
+Difference between synchronous and asynchronous processing in backend apps?
+
+
+5. APIs & Communication
+What is an API rate limit and why is it important?
+
+
+Difference between PUT, PATCH, and POST in REST?
+
+
+How do you handle API versioning?
+
+
+What are webhooks, and how are they different from APIs?
+
+
+How do you ensure backward compatibility in APIs?
+
+
+6. Cloud & Deployment
+Difference between serverless functions and traditional backend servers?
+
+
+What is Docker, and why is it used in backend development?
+
+
+Explain the concept of CI/CD in backend projects.
+
+
+How would you set up a staging environment for a backend application?
+
+
+Difference between AWS Lambda and EC2?
+
+
+7. Advanced Backend Patterns
+What is the Repository pattern and why is it used?
+
+
+Explain the difference between message queues (e.g., RabbitMQ, Kafka) and APIs.
+
+
+What’s eventual consistency, and where is it acceptable?
+
+
+How do you implement rate-limiting in an API?
+
+
+What is a distributed transaction, and how is it handled?
+
+
+8. Testing & Debugging
+How do you test API endpoints?
+
+
+Difference between unit tests, integration tests, and end-to-end tests?
+
+
+How would you debug a memory leak in a backend service?
+
+
+What tools do you use for load testing backend systems?
+
+
+How do you mock external APIs for testing purposes?
+
+
+9. Real-World Application Scenarios
+A client’s e-commerce site crashes during Black Friday due to traffic. How would you fix and prevent this in the future?
+
+
+A user reports they can access another user’s data. Walk me through your investigation.
+
+
+How do you handle file uploads and storage at scale?
+
+
+If a mobile app keeps sending repeated requests to your API, how would you safeguard performance?
+
+
+A payment system must never lose transactions—what’s your design approach?
+
+
+10. Soft Skills & Client Management
+How do you explain backend timelines and limitations to a non-technical client?
+
+
+When collaborating with frontend developers, what’s the biggest source of friction and how do you solve it?
+
+
+How do you prioritize bug fixes vs. new feature development when both are urgent?
+
+
+Describe a time when backend infrastructure changes saved money for a client.
+
+
+If a client insists on using a technology you know is not scalable, how do you handle it?
+Practical Tasks (pick your stack)
+Task 1 — Build a Production-Ready CRUD + Auth API
+Choose one (your call):
+Option A (JavaScript/TypeScript): Node.js + Express or Fastify + PostgreSQL (Prisma/TypeORM)
+
+
+Option B (Python): FastAPI + PostgreSQL (SQLAlchemy)
+
+
+Option C (Go): net/http or Gin + PostgreSQL (sqlc/GORM)
+
+
+Feature: orders service
+Endpoints:
+
+
+POST /auth/register, POST /auth/login (hashed passwords; lockout after 5 failed attempts/15 min)
+
+
+POST /orders (validate payload, idempotency key in header)
+
+
+GET /orders?limit&cursor (cursor pagination)
+
+
+GET /orders/:id
+
+
+PATCH /orders/:id (partial update; reject unknown fields)
+
+
+Data model (min):
+
+
+users(id, email UNIQUE, password_hash, created_at)
+
+
+orders(id UUID, user_id FK, total_cents INT, currency CHAR(3), status ENUM[pending,paid,cancelled], created_at)
+
+
+Requirements:
+
+
+Input validation (schema-based)
+
+
+DB migrations
+
+
+Indexes on orders(user_id, created_at DESC) and orders(status)
+
+
+E2E tests for happy-path + auth failures + pagination
+
+
+Error model with trace id
+
+
+Basic rate limiting (per-IP + per-user)
+
+
+Dockerfile + docker-compose.yml for local run
+
+
+Acceptance checks:
+
+
+Creating duplicate POST /orders with same Idempotency-Key does not double-insert
+
+
+GET /orders returns stable pagination under concurrent inserts
+
+
+Unauthorized requests get 401 with structured error
+
+
+Load test (~100 RPS for 60s) keeps p95 < 200ms on local
+
+
+Scoring (100 pts):
+Correctness 35, Reliability (idempotency, pagination) 25, Security 15, Tests 15, DX/Docs 10.
+
+
+Task 2 — Diagnose, Optimize & Make It Safe
+You receive a struggling service:
+Symptoms: p95 = 1.4s, occasional 500s, DB CPU 95%, cache hit rate 5%.
+
+
+Code smells discovered:
+
+
+ORM N+1 on GET /orders?include=items
+
+
+No indexes on orders(status) or order_items(order_id)
+
+
+In-process cache with global map (no TTL), causes stampede and memory spikes
+
+
+Unbounded goroutines/workers or async tasks without backpressure
+
+
+Secrets in .env committed to repo
+
+
+Webhook endpoint accepts POST from anywhere, no signature check
+
+
+Deliverables:
+A written diagnostic report (≤500 words) prioritizing issues by impact.
+
+
+Code diffs or pseudocode that:
+
+
+Add proper JOIN + eager loading/select_related to kill N+1
+
+
+Create indexes and verify improvement (explain before/after EXPLAIN plans)
+
+
+Introduce Redis with TTL + request coalescing (single-flight) to prevent stampedes
+
+
+Implement bounded concurrency/backpressure
+
+
+Add HMAC signature verification for webhooks
+
+
+Rotate secrets and add secret scanning in CI
+
+
+A runbook: how to roll out safely (migrations, canary, metrics to watch: DB CPU, hit rate, p95).
+
+
+Acceptance checks:
+p95 < 300ms after fixes under the same load profile
+
+
+DB CPU < 60% sustained; cache hit rate > 60%
+
+
+Webhook requests without valid signature are rejected with 401/403 and audited
+
+
+CI blocks PRs with committed secrets
+
+
+
+
+
+Video Editing – 50 Vetting Questions
+1. Fundamentals & Theory
+What’s the difference between a jump cut and a match cut?
+
+
+Explain the 180-degree rule and why it matters.
+
+
+What is B-roll, and how do you decide when to use it?
+
+
+Describe the difference between a montage and a sequence.
+
+
+How do pacing and rhythm affect storytelling in video editing?
+
+
+What’s the role of continuity editing?
+
+
+What is color grading vs. color correction?
+
+
+Define keyframing in the context of animation/editing.
+
+
+What is the rule of thirds and how does it apply in video editing?
+
+
+When should you use cross dissolve vs. a hard cut?
+
+
+2. Software Knowledge
+Which editing software do you prefer (Premiere Pro, Final Cut, DaVinci Resolve, CapCut Pro, etc.) and why?
+
+
+How do you organize footage in your editing timeline for efficiency?
+
+
+Explain how to use proxies for high-resolution footage.
+
+
+What’s the difference between H.264 and ProRes formats?
+
+
+How do you handle audio syncing in post-production?
+
+
+What is a nested sequence (Premiere Pro) or compound clip (Final Cut)?
+
+
+How do you export a video optimized for YouTube vs. Instagram?
+
+
+What’s the importance of frame rates (24fps, 30fps, 60fps)?
+
+
+Explain how you’d edit vertical video differently from widescreen.
+
+
+How do you use LUTs in your workflow?
+
+
+3. Storytelling & Creativity
+How do you approach editing a client’s 2-hour raw footage into a 3-minute highlight reel?
+
+
+What makes a strong hook in the first 5 seconds of a video?
+
+
+How would you edit differently for TikTok vs. LinkedIn?
+
+
+Describe how you’d create emotional impact in a testimonial video.
+
+
+What’s your strategy for editing event highlight videos?
+
+
+How do you use sound effects or music to drive narrative?
+
+
+Give an example of when you broke editing “rules” for creative effect.
+
+
+How do you balance fast cuts vs. long takes in storytelling?
+
+
+When is silence more powerful than background music in editing?
+
+
+How do you adapt editing style for corporate clients vs. lifestyle influencers?
+
+
+4. Practical Client Management
+A client says, “This feels boring” — what steps do you take to fix it?
+
+
+A client requests 20 rounds of edits. How do you set boundaries?
+
+
+A startup wants a promo video but has low-quality footage. What do you do?
+
+
+How do you explain to a client why certain footage can’t be fixed in post?
+
+
+How do you manage deadlines when given 50GB of footage and 3 days to deliver?
+
+
+How do you collaborate with a scriptwriter or motion graphics artist?
+
+
+How would you handle brand guideline requests (fonts, colors, tone)?
+
+
+How do you ensure copyright-safe use of music, fonts, and stock footage?
+
+
+How do you price differently for ads vs. long-form content?
+
+
+A client insists on vertical video for YouTube. How do you handle the conversation?
+
+
+5. Advanced & Practical Scenarios
+Edit a 30-second ad from raw footage (practical test).
+
+
+Sync a music beat drop with cuts in a highlight reel.
+
+
+Remove background noise from a 2-minute interview clip.
+
+
+Color-correct a shot with mixed lighting (daylight + tungsten).
+
+
+Stabilize shaky footage without losing too much resolution.
+
+
+Create subtitles for a social media video in SRT format.
+
+
+Show how you’d cut a 10-minute YouTube vlog into a punchy 1-minute IG reel.
+
+
+Add motion graphics for lower-thirds and transitions.
+
+
+Demonstrate how you’d apply a cinematic LUT to different shots for consistency.
+
+
+Export the same video in 3 formats: 4K (YouTube), 1080p (Facebook), 9:16 vertical (TikTok/Instagram).
+
+
+Practical Question 1 – Editing for Engagement
+You’re given:
+A 2-minute raw interview recording (with pauses, filler words, and background noise).
+
+
+A short script or caption text highlighting the key takeaways.
+
+
+Task:
+ Edit the video into a 30-second engaging clip suitable for Instagram Reels/TikTok.
+Add captions (subtitles) in sync with the audio.
+
+
+Insert jump cuts, background music, and minimal motion graphics.
+
+
+Optimize aspect ratio (9:16).
+
+
+👉 This tests their ability to trim, structure, and stylize content for social media.
+Practical Question 2 – Storytelling & Branding
+You’re given:
+A brand’s color palette + logo.
+
+
+4 short video clips of a product in use.
+
+
+A brand message: “This product saves you 2 hours daily—so you can focus on what matters.”
+
+
+Task:
+ Create a 60-second promotional video ad:
+Use transitions and pacing that match the brand’s tone.
+
+
+Incorporate logo + brand colors.
+
+
+Add a strong call-to-action at the end.
+
+
+👉 This tests their storytelling, brand consistency, and ad-readiness editing skills.
+
+

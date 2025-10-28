@@ -1,0 +1,307 @@
+Backend Development 
+1. Core Backend Fundamentals
+Explain the difference between a monolithic and microservices architecture.
+
+
+How do APIs enable frontend-backend communication?
+
+
+What is the difference between REST and GraphQL APIs?
+
+
+Can you explain the concept of middleware in backend frameworks?
+
+
+How would you handle environment variables securely in a project?
+
+
+2. Databases & Data Modeling
+Difference between SQL and NoSQL databases? Give an example use case for each.
+
+
+How would you design a schema for an e-commerce product catalog?
+
+
+Explain the concept of database normalization.
+
+
+What’s an index in a database, and when should you use one?
+
+
+How do you handle relationships in MongoDB vs. PostgreSQL?
+
+
+3. Authentication & Security
+Difference between session-based and token-based authentication?
+
+
+How does OAuth2 work?
+
+
+Explain the concept of JWT and its risks.
+
+
+What’s the role of hashing and salting passwords?
+
+
+How do you prevent SQL Injection attacks?
+
+
+4. Performance & Scalability
+What is caching, and where would you apply it in backend systems?
+
+
+Explain horizontal vs. vertical scaling with an example.
+
+
+How would you optimize a slow-running query?
+
+
+What is load balancing, and why is it important?
+
+
+Difference between synchronous and asynchronous processing in backend apps?
+
+
+5. APIs & Communication
+What is an API rate limit and why is it important?
+
+
+Difference between PUT, PATCH, and POST in REST?
+
+
+How do you handle API versioning?
+
+
+What are webhooks, and how are they different from APIs?
+
+
+How do you ensure backward compatibility in APIs?
+
+
+6. Cloud & Deployment
+Difference between serverless functions and traditional backend servers?
+
+
+What is Docker, and why is it used in backend development?
+
+
+Explain the concept of CI/CD in backend projects.
+
+
+How would you set up a staging environment for a backend application?
+
+
+Difference between AWS Lambda and EC2?
+
+
+7. Advanced Backend Patterns
+What is the Repository pattern and why is it used?
+
+
+Explain the difference between message queues (e.g., RabbitMQ, Kafka) and APIs.
+
+
+What’s eventual consistency, and where is it acceptable?
+
+
+How do you implement rate-limiting in an API?
+
+
+What is a distributed transaction, and how is it handled?
+
+
+8. Testing & Debugging
+How do you test API endpoints?
+
+
+Difference between unit tests, integration tests, and end-to-end tests?
+
+
+How would you debug a memory leak in a backend service?
+
+
+What tools do you use for load testing backend systems?
+
+
+How do you mock external APIs for testing purposes?
+
+
+9. Real-World Application Scenarios
+A client’s e-commerce site crashes during Black Friday due to traffic. How would you fix and prevent this in the future?
+
+
+A user reports they can access another user’s data. Walk me through your investigation.
+
+
+How do you handle file uploads and storage at scale?
+
+
+If a mobile app keeps sending repeated requests to your API, how would you safeguard performance?
+
+
+A payment system must never lose transactions—what’s your design approach?
+
+
+10. Soft Skills & Client Management
+How do you explain backend timelines and limitations to a non-technical client?
+
+
+When collaborating with frontend developers, what’s the biggest source of friction and how do you solve it?
+
+
+How do you prioritize bug fixes vs. new feature development when both are urgent?
+
+
+Describe a time when backend infrastructure changes saved money for a client.
+
+
+If a client insists on using a technology you know is not scalable, how do you handle it?
+Practical Tasks (pick your stack)
+Task 1 — Build a Production-Ready CRUD + Auth API
+Choose one (your call):
+Option A (JavaScript/TypeScript): Node.js + Express or Fastify + PostgreSQL (Prisma/TypeORM)
+
+
+Option B (Python): FastAPI + PostgreSQL (SQLAlchemy)
+
+
+Option C (Go): net/http or Gin + PostgreSQL (sqlc/GORM)
+
+
+Feature: orders service
+Endpoints:
+
+
+POST /auth/register, POST /auth/login (hashed passwords; lockout after 5 failed attempts/15 min)
+
+
+POST /orders (validate payload, idempotency key in header)
+
+
+GET /orders?limit&cursor (cursor pagination)
+
+
+GET /orders/:id
+
+
+PATCH /orders/:id (partial update; reject unknown fields)
+
+
+Data model (min):
+
+
+users(id, email UNIQUE, password_hash, created_at)
+
+
+orders(id UUID, user_id FK, total_cents INT, currency CHAR(3), status ENUM[pending,paid,cancelled], created_at)
+
+
+Requirements:
+
+
+Input validation (schema-based)
+
+
+DB migrations
+
+
+Indexes on orders(user_id, created_at DESC) and orders(status)
+
+
+E2E tests for happy-path + auth failures + pagination
+
+
+Error model with trace id
+
+
+Basic rate limiting (per-IP + per-user)
+
+
+Dockerfile + docker-compose.yml for local run
+
+
+Acceptance checks:
+
+
+Creating duplicate POST /orders with same Idempotency-Key does not double-insert
+
+
+GET /orders returns stable pagination under concurrent inserts
+
+
+Unauthorized requests get 401 with structured error
+
+
+Load test (~100 RPS for 60s) keeps p95 < 200ms on local
+
+
+Scoring (100 pts):
+Correctness 35, Reliability (idempotency, pagination) 25, Security 15, Tests 15, DX/Docs 10.
+
+
+Task 2 — Diagnose, Optimize & Make It Safe
+You receive a struggling service:
+Symptoms: p95 = 1.4s, occasional 500s, DB CPU 95%, cache hit rate 5%.
+
+
+Code smells discovered:
+
+
+ORM N+1 on GET /orders?include=items
+
+
+No indexes on orders(status) or order_items(order_id)
+
+
+In-process cache with global map (no TTL), causes stampede and memory spikes
+
+
+Unbounded goroutines/workers or async tasks without backpressure
+
+
+Secrets in .env committed to repo
+
+
+Webhook endpoint accepts POST from anywhere, no signature check
+
+
+Deliverables:
+A written diagnostic report (≤500 words) prioritizing issues by impact.
+
+
+Code diffs or pseudocode that:
+
+
+Add proper JOIN + eager loading/select_related to kill N+1
+
+
+Create indexes and verify improvement (explain before/after EXPLAIN plans)
+
+
+Introduce Redis with TTL + request coalescing (single-flight) to prevent stampedes
+
+
+Implement bounded concurrency/backpressure
+
+
+Add HMAC signature verification for webhooks
+
+
+Rotate secrets and add secret scanning in CI
+
+
+A runbook: how to roll out safely (migrations, canary, metrics to watch: DB CPU, hit rate, p95).
+
+
+Acceptance checks:
+p95 < 300ms after fixes under the same load profile
+
+
+DB CPU < 60% sustained; cache hit rate > 60%
+
+
+Webhook requests without valid signature are rejected with 401/403 and audited
+
+
+CI blocks PRs with committed secrets
